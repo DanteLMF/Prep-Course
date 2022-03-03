@@ -1,0 +1,1 @@
+Arrays: son un contenedor de datos, podria compararse a una lista que almacena muchos valores individuales.

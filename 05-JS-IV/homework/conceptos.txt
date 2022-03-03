@@ -1,0 +1,6 @@
+Objetos:Contenedores de informacion, estructuras creadas para almacenar multiples datos relacionados a la misma cosa, y posibles acciones a ejecutar sobre dichos datos tambien.
+Propiedades: Asi se le llama a los datos guardados en un objeto, los cuales que deben estar ligados a una palabra especifica llamada clave. Cada clave con su valor correspondiente es una propiedad.
+Métodos: Es el nombre que reciben las funciones (posibles acciones a realizar) guardadas dentro de un objeto.
+Bucle for…in: Es un tipo de bucle especifico para recorrer todas las propiedades dentro de un objeto.
+Notación de puntos vs notación de corchetes: Ambos sirven para hacer referencia a propiedades especificas de un objeto. En el caso de los corchetes, es necesario utilizar un string o un numero, o una variable que los contenga.
+Al usar el punto se escribe directamente la clave de la propiedad deseada.

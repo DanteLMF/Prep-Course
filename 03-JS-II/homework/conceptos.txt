@@ -1,0 +1,4 @@
+For: es lo que se llama un bucle, una estructura de codigo diseñada para repetirse una y otra vez hasta que la condicion requerida por el programador se cumpla.
+&&: un operador que sirve para indicar que dos o mas condiciones deben cumplirse.
+||: un operador que sirve para indicar que una u otra (de varias) condiciones deben cumplirse.
+!: un operador de negación, convierte a un valor en su opuesto.
