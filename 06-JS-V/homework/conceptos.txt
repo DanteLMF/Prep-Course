@@ -1,0 +1,2 @@
+Prototype: Los prototypes son propios de JavaScript, son referencia para otros objetos similares que se quieran crear y/o utilizar. Contienen metodos aplicables a todos los objetos asociados al prototipo correspondiente..  
+Constructores: Son funciones diseñadas para facilitar la creación de nuevos objetos pertenecientes a una clase, contienen los parametros especificos que conforman la clase.
