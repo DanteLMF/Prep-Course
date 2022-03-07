@@ -1,0 +1,53 @@
+h1 {
+    color:rgb(63, 42, 3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h4 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+a {
+    display: flex;
+    align-items: center;
+    justify-content: center;}
+img {
+    width: 400px;
+    
+}
+li {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: black;
+    padding: 50px;
+    border: 30px orangered solid ;
+    margin: 0 auto;
+    
+    
+    
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+ body {
+     background: url('https://www.paulinacocina.net/wp-content/uploads/2017/10/frenchfries.jpg');
+     
+ }
